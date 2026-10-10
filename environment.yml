@@ -1,0 +1,11 @@
+name: nanoplot-qc
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - python=3.11
+  - nanoplot
+  - openpyxl>=3.1
